@@ -1,7 +1,7 @@
 import falcon
 from water import Water
 
-api = application = falcon.API()
+api = falcon.API()
 
 water = Water()
 
